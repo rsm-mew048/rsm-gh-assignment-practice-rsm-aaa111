@@ -31,11 +31,11 @@ Provide the information requested below. Then (1) save this markdown (md) file, 
 
 Provide the information requested below:
 
-- Last name:
-- First (or preferred) name:
-- Favorite food:
-- Favorite recent Netflix movie or show:
-
+- Last name: wu
+- First (or preferred) name:Melody
+- Favorite food: Apple
+- Favorite recent Netflix movie or show: Intersteller
+ 
 ---
 
 If you have any problems with this practice assignment, take screenshots and post them to <https://piazza.com/ucsd/summer2025/rady499>.
